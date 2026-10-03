@@ -1,0 +1,5 @@
+streamlit
+numpy
+Pillow
+deepface
+opencv-python>=4.8,<5
